@@ -22,7 +22,7 @@
     <item>
       <title>A Capacity-Price Game for Uncertain Renewables Resources</title>
       <link>https://sekarshre.github.io/publication/renewables-uncertainty/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://sekarshre.github.io/publication/renewables-uncertainty/</guid>
       <description></description>
@@ -31,27 +31,54 @@
     <item>
       <title>A Perspective on Incentive Design: Challenges and Opportunities</title>
       <link>https://sekarshre.github.io/publication/survey-incentivedesign/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
       
       <guid>https://sekarshre.github.io/publication/survey-incentivedesign/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Combinatorial Bandits for Incentivizing Agents with Dynamic Preferences</title>
-      <link>https://sekarshre.github.io/publication/combinatorialbandits/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <title>Incentives in the Dark: Multi-armed Bandits for Evolving Users with Unknown Type</title>
+      <link>https://sekarshre.github.io/publication/bandits_markovian/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://sekarshre.github.io/publication/combinatorialbandits/</guid>
+      <guid>https://sekarshre.github.io/publication/bandits_markovian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Risk-Averse Matchings over Uncertain Graph Databases</title>
       <link>https://sekarshre.github.io/publication/riskaversematchings/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
       
       <guid>https://sekarshre.github.io/publication/riskaversematchings/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty in Multi-Commodity Routing Networks: When does it help?</title>
+      <link>https://sekarshre.github.io/publication/uncertainty-routing/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://sekarshre.github.io/publication/uncertainty-routing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combinatorial Bandits for Incentivizing Agents with Dynamic Preferences</title>
+      <link>https://sekarshre.github.io/publication/combinatorialbandits/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
+      
+      <guid>https://sekarshre.github.io/publication/combinatorialbandits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Ordinal Approach to Approximation Algorithms</title>
+      <link>https://sekarshre.github.io/publication/ordinal_journal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sekarshre.github.io/publication/ordinal_journal/</guid>
       <description></description>
     </item>
     
@@ -65,16 +92,7 @@
     </item>
     
     <item>
-      <title>Uncertainty in Multi-Commodity Routing Networks: When does it help?</title>
-      <link>https://sekarshre.github.io/publication/uncertainty-routing/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://sekarshre.github.io/publication/uncertainty-routing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Balancing social utility with aggregator profit in electric vehiclecharging</title>
+      <title>Balancing social utility with aggregator profit in electric vehicle charging</title>
       <link>https://sekarshre.github.io/publication/ev-profit-welfare/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
@@ -110,7 +128,7 @@
     </item>
     
     <item>
-      <title>Price Doubling and Item Halving: Robust Revenue Guarantees for ItemPricing</title>
+      <title>Price Doubling and Item Halving: Robust Revenue Guarantees for Item Pricing</title>
       <link>https://sekarshre.github.io/publication/itemhalving/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
@@ -124,24 +142,6 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>https://sekarshre.github.io/publication/blindgreedy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pricing to Maximize Revenue and Welfare Simultaneously in Large Markets</title>
-      <link>https://sekarshre.github.io/publication/revenuewelfaresimul/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://sekarshre.github.io/publication/revenuewelfaresimul/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Truthful Mechanisms for Matching and Clustering in an Ordinal World</title>
-      <link>https://sekarshre.github.io/publication/truthfulordinal/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://sekarshre.github.io/publication/truthfulordinal/</guid>
       <description></description>
     </item>
     
