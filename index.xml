@@ -6,25 +6,43 @@
     <description>Recent content in Homepage of Shreyas Sekar on Homepage of Shreyas Sekar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>2018</copyright>
+    <copyright>2019</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0400</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Learning to Rank an Assortment of Products</title>
       <link>https://sekarshre.github.io/publication/wayfair/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
       
       <guid>https://sekarshre.github.io/publication/wayfair/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>A Test Score Based Approach to Stochastic Submodular Optimization</title>
+      <link>https://sekarshre.github.io/publication/submodular-testscores/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://sekarshre.github.io/publication/submodular-testscores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Capacity-Price Game for Uncertain Renewables Resources</title>
       <link>https://sekarshre.github.io/publication/renewables-uncertainty/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sat, 02 Feb 2019 00:00:00 -0500</pubDate>
       
       <guid>https://sekarshre.github.io/publication/renewables-uncertainty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncertainty in Multi-Commodity Routing Networks: When does it help?</title>
+      <link>https://sekarshre.github.io/publication/uncertainty-routing/</link>
+      <pubDate>Wed, 02 Jan 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sekarshre.github.io/publication/uncertainty-routing/</guid>
       <description></description>
     </item>
     
@@ -56,38 +74,11 @@
     </item>
     
     <item>
-      <title>Uncertainty in Multi-Commodity Routing Networks: When does it help?</title>
-      <link>https://sekarshre.github.io/publication/uncertainty-routing/</link>
-      <pubDate>Wed, 01 Aug 2018 00:00:00 -0400</pubDate>
-      
-      <guid>https://sekarshre.github.io/publication/uncertainty-routing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Combinatorial Bandits for Incentivizing Agents with Dynamic Preferences</title>
       <link>https://sekarshre.github.io/publication/combinatorialbandits/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 -0400</pubDate>
       
       <guid>https://sekarshre.github.io/publication/combinatorialbandits/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An Ordinal Approach to Approximation Algorithms</title>
-      <link>https://sekarshre.github.io/publication/ordinal_journal/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://sekarshre.github.io/publication/ordinal_journal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Submodular Maximization using Test Scores</title>
-      <link>https://sekarshre.github.io/publication/submodular-testscores/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
-      
-      <guid>https://sekarshre.github.io/publication/submodular-testscores/</guid>
       <description></description>
     </item>
     
@@ -142,6 +133,15 @@
       <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
       
       <guid>https://sekarshre.github.io/publication/blindgreedy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pricing to Maximize Revenue and Welfare Simultaneously in Large Markets</title>
+      <link>https://sekarshre.github.io/publication/revenuewelfaresimul/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
+      
+      <guid>https://sekarshre.github.io/publication/revenuewelfaresimul/</guid>
       <description></description>
     </item>
     
