@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Optimal Subscription Design for Ridehailing and Two-sided Markets</title>
+      <link>https://sekarshre.github.io/publication/subscription/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0500</pubDate>
+      
+      <guid>https://sekarshre.github.io/publication/subscription/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Learning to Rank an Assortment of Products</title>
       <link>https://sekarshre.github.io/publication/wayfair/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 -0400</pubDate>
@@ -83,6 +92,15 @@
     </item>
     
     <item>
+      <title>An Ordinal Approach to Approximation Algorithms</title>
+      <link>https://sekarshre.github.io/publication/ordinal_journal/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://sekarshre.github.io/publication/ordinal_journal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Balancing social utility with aggregator profit in electric vehicle charging</title>
       <link>https://sekarshre.github.io/publication/ev-profit-welfare/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
@@ -124,24 +142,6 @@
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
       <guid>https://sekarshre.github.io/publication/itemhalving/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Blind, Greedy, and Random: Algorithms for Matching and ClusteringUsing Only Ordinal Information</title>
-      <link>https://sekarshre.github.io/publication/blindgreedy/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://sekarshre.github.io/publication/blindgreedy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pricing to Maximize Revenue and Welfare Simultaneously in Large Markets</title>
-      <link>https://sekarshre.github.io/publication/revenuewelfaresimul/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 -0500</pubDate>
-      
-      <guid>https://sekarshre.github.io/publication/revenuewelfaresimul/</guid>
       <description></description>
     </item>
     
